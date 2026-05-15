@@ -17,7 +17,7 @@
 
 ## 🎯 Problema
 
-YoLoEnvío era una plataforma existente de intermediación entre usuarios finales y múltiples paqueterías. Al incorporarme al proyecto, la plataforma enfrentaba varios problemas que requerían solución:
+YoLoEnvío es una plataforma existente de intermediación entre usuarios finales y múltiples paqueterías. Al incorporarme al proyecto, la plataforma enfrentaba varios problemas que requerían solución:
 
 - **Integración de paqueterías sin arquitectura desacoplada:** agregar un nuevo proveedor implicaba modificar lógica de negocio core y arriesgar integraciones existentes
 - **Fraude en cuentas:** usuarios maliciosos creando cuentas masivas para abusar de precios o créditos
